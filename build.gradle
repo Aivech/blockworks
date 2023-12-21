@@ -22,7 +22,7 @@ loom {
     splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"blockworks" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

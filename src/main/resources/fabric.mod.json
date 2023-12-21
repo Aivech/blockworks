@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"aivech.BlockWorks"
+			"aivech.blockworks.BlockWorks"
 		],
 		"client": [
-			"aivech.BlockWorksClient"
+			"aivech.blockworks.BlockWorksClient"
 		]
 	},
 	"mixins": [
